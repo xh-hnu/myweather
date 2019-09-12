@@ -21,7 +21,6 @@ import androidx.lifecycle.Observer;
 public class ChooseAreaFragment extends Fragment {
 
     private ChooseAreaVM chooseAreaVM;
-    private ProgressDialog progressDialog;
     private ArrayAdapter<String> adapter;
     private ChooseAreaBinding binding;
 
