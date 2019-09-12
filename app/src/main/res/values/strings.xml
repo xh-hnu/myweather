@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyWeather</string>
+    <string name="province">省份</string>
+</resources>
